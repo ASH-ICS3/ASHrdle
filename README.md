@@ -1,4 +1,7 @@
-# 🎉 JavaScript Assignment: Create Your Own ASH Wordle! 🎉
+<div align="center">
+   
+# 🎉 Unit 3 Summative: <br> Create Your Own ASH Wordle! 🎉
+</div>
 
 ## Overview
 Welcome to the exciting world of coding! In this assignment, you and a partner will collaborate to create a fun and interactive version of Wordle (ASH Style) using JavaScript. You'll work together using GitHub to manage your code, commit your progress daily, and pull updates from your repository. By the end of this project, you'll have a fully functional website where users can guess a 5-letter word, with color-coded feedback just like the popular, and boring game Wordle! 🌟
