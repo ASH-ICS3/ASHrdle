@@ -4,7 +4,7 @@
 </div>
 
 ## Overview
-Welcome to the exciting world of coding! In this assignment, you and a partner will collaborate to create a fun and interactive version of Wordle (ASH Style) using JavaScript. You'll work together using GitHub to manage your code, commit your progress daily, and pull updates from your repository. By the end of this project, you'll have a fully functional website where users can guess a 5-letter word, with color-coded feedback just like the popular, and boring game Wordle! 🌟
+Welcome to the exciting world of coding and collaboration! In this assignment, you and a partner (from the other class) will collaborate to create a fun and interactive version of Wordle (ASH Style) using JavaScript. You'll work together using GitHub to manage your code, commit your progress daily, and pull updates from your repository. By the end of this project, you'll have a fully functional website where users can guess a 5-letter word, with color-coded feedback just like the popular, and boring game Wordle! 🌟
 
 ## Objectives
 - **Collaborate** with a partner from a different class using GitHub.
@@ -25,7 +25,7 @@ Welcome to the exciting world of coding! In this assignment, you and a partner w
      - `script.js`
 4. **Daily Workflow**:
    - **Commit** your work at the end of each day with meaningful commit messages.
-   - **Pull** the latest changes from the repository at the start of each day.
+   - **Pull** the latest changes from the repository at the start of each day. ([video](https://www.youtube.com/watch?v=v4g6y_HsgpA) to show how to accomplish this)
 5. **Game Requirements**:
    - **HTML**: Create a simple structure for your game.
    - **CSS**: Style your game to make it visually appealing.
